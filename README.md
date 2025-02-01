@@ -1,7 +1,3 @@
-Here's a **detailed and professional README** for your project:  
-
----
-
 # 🔥 Malware Detection Using Machine Learning  
 
 ## 📌 Project Overview  
