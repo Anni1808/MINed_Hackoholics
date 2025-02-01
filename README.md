@@ -124,8 +124,5 @@ python malware_detection.py
 
 ---
 
-## 📜 License  
-
-This project is open-source under the **MIT License**.  
 
 📧 **Contact**: If you have any questions or suggestions, feel free to open an issue on GitHub!  
