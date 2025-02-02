@@ -1,4 +1,4 @@
-# 🔥 Malware Detection Using Machine Learning  
+# 🔥 Malware Detection Using Machine Learning 🤖
 
 ## 📌 Project Overview  
 Malware is a growing threat in the cybersecurity landscape, making **automated malware detection** an essential task. This project presents a **machine learning-based malware classification system** that efficiently identifies malware types using extracted features from API function calls, DLL imports, and portable executable (PE) headers.  
